@@ -1,0 +1,33 @@
+
+/* =======================
+Start Featured section css 
+============*/
+.featured-sec a i{
+    padding: 8px;
+  }
+
+.middle {
+    opacity: 1;
+    left: 20%;
+  }
+
+  
+  /* ========
+  Start Featured section css 
+  ==========================*/
+  
+  /* =======================
+Start Offer Section
+=========== */
+.offer-bg{
+    background: url('../img/bg-offer.jpg') no-repeat;
+    height: 100%;
+    background-size: cover; 
+  }
+.offer-bg .font-dancing{
+    font-size: 70px !important; 
+  }
+  /* ========
+  Start Offer Section
+  ========================== */
+  
